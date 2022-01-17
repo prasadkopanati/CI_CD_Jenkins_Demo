@@ -1,0 +1,19 @@
+{
+  "name": "jenkins-ci-cd",
+  "version": "1.0.0",
+  "description": "Demo of Jenkins CI CD using simple node js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prasad Venkat",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.1"
+  }
+}
