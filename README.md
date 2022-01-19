@@ -6,11 +6,13 @@ Clone the repo
 
 `npm install`
 
+`npm test`
+
 `npm start`
+
 
 ## Access 
 `http://localhost:3032`
 
 ### Licence
 MIT
-
