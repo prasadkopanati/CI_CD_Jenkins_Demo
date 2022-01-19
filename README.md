@@ -11,6 +11,9 @@ Clone the repo
 `npm start`
 
 
+## Run Tests
+`npm test`
+
 ## Access 
 `http://localhost:3032`
 
